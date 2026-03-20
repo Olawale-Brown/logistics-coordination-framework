@@ -101,7 +101,7 @@ https://tribuneonlineng.com/coordination-gap-the-reason-for-the-loss-of-600-bill
 Faruk Olawale Quadri is Co-Founder and COO of Circuit 40s Ltd, a UK-registered product-led digital technology company building the digital coordination infrastructure for international shipments. He leads operator network design and supply architecture at Circuit. He has spent years working in procurement and supply chain operations with direct exposure to the coordination failures documented in this framework.
 
 LinkedIn: linkedin.com/in/olawale-brown-2997483a2
-Company: circuit40s.com
+Company: https://circuit40s.com
 
 
 
